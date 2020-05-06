@@ -1,0 +1,11 @@
+ALGORITMO Sumar;
+VAR
+    ENTERO Numero1, Numero2, Resultado;
+INICIO
+    ESCRIBIR("Dime dos numeros para sumar: ");
+    LEER(Numero1, Numero2);
+
+    Resultado <- Numero1 + Numero2;
+
+    ESCRIBIR("La suma es: ", Resultado);
+FIN

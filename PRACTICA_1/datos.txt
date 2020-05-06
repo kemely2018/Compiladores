@@ -1,0 +1,5 @@
+BEGIN
+    WRITE("Dame un numero");
+END
+
+
