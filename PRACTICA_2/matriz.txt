@@ -1,0 +1,7 @@
+2 2 3 error
+4 error 3 error
+4 error 3 error
+error error 3 aceptar
+error error 5 error
+error error 5 aceptar
+
