@@ -1,0 +1,10 @@
+int main()
+{
+    char t = h;
+    int a = 666;
+	int b <= a;
+	if ( int c == a){
+	      a + 7 ;
+	}
+ 	return 0;
+}
